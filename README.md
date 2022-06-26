@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moy-ui
 - 👀 I’m interested todo lo que este relacionado con tecnología y la programación en especial los retos 
-- 🌱 I’m currently learning JavaScritp, HTML, CSS, PHP, Laravel 
+- 🌱 I’m currently learning Java, HTML, CSS
 
 
 <!---
