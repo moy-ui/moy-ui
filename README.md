@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moy-ui
 - 👀 I’m interested todo lo que este relacionado con tecnología y la programación en especial los retos 
-- 🌱 I’m currently learning Java, HTML, CSS
+- 🌱 I’m currently work with technology Cobol and all about Mainframe Z/os 390
 
 
 <!---
